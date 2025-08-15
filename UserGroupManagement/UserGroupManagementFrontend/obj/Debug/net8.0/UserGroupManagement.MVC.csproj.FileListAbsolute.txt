@@ -1,0 +1,64 @@
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\UserGroupManagement.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\UserGroupManagement.MVC.AssemblyInfoInputs.cache
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\UserGroupManagement.MVC.AssemblyInfo.cs
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\UserGroupManagement.MVC.csproj.CoreCompileInputs.cache
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\UserGroupManagement.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\UserGroupManagement.MVC.RazorAssemblyInfo.cache
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\UserGroupManagement.MVC.RazorAssemblyInfo.cs
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\bin\Debug\net8.0\appsettings.json
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\bin\Debug\net8.0\UserGroupManagement.MVC.staticwebassets.runtime.json
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\bin\Debug\net8.0\UserGroupManagement.MVC.staticwebassets.endpoints.json
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\bin\Debug\net8.0\UserGroupManagement.MVC.exe
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\bin\Debug\net8.0\UserGroupManagement.MVC.deps.json
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\bin\Debug\net8.0\UserGroupManagement.MVC.runtimeconfig.json
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\bin\Debug\net8.0\UserGroupManagement.MVC.dll
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\bin\Debug\net8.0\UserGroupManagement.MVC.pdb
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\scopedcss\bundle\UserGroupManagement.MVC.styles.css
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\UserGroupManagement.MVC.dll
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\refint\UserGroupManagement.MVC.dll
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\UserGroupManagement.MVC.pdb
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\UserGroupManagement.MVC.genruntimeconfig.cache
+C:\Users\simeo\Desktop\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\ref\UserGroupManagement.MVC.dll
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\bin\Debug\net8.0\appsettings.json
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\bin\Debug\net8.0\UserGroupManagement.MVC.staticwebassets.runtime.json
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\bin\Debug\net8.0\UserGroupManagement.MVC.staticwebassets.endpoints.json
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\bin\Debug\net8.0\UserGroupManagement.MVC.exe
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\bin\Debug\net8.0\UserGroupManagement.MVC.deps.json
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\bin\Debug\net8.0\UserGroupManagement.MVC.runtimeconfig.json
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\bin\Debug\net8.0\UserGroupManagement.MVC.dll
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\bin\Debug\net8.0\UserGroupManagement.MVC.pdb
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\UserGroupManagement.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\UserGroupManagement.MVC.AssemblyInfoInputs.cache
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\UserGroupManagement.MVC.AssemblyInfo.cs
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\UserGroupManagement.MVC.csproj.CoreCompileInputs.cache
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\UserGroupManagement.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\UserGroupManagement.MVC.RazorAssemblyInfo.cache
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\UserGroupManagement.MVC.RazorAssemblyInfo.cs
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\scopedcss\bundle\UserGroupManagement.MVC.styles.css
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\scopedcss\projectbundle\UserGroupManagement.MVC.bundle.scp.css
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\UserGroupManagement.MVC.dll
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\refint\UserGroupManagement.MVC.dll
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\UserGroupManagement.MVC.pdb
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\UserGroupManagement.MVC.genruntimeconfig.cache
+C:\Users\simeo\Desktop\UserManagementAssessment v1\UserManagementAssessment\UserGroupManagement\UserGroupManagementFrontend\obj\Debug\net8.0\ref\UserGroupManagement.MVC.dll

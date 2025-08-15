@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\simeo\\Desktop\\UserManagementAssessment v1\\UserManagementAssessment\\UserGroupManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DBE1CF-D8D1-4819-A739-E403001CDA79}|UserGroupManagementFrontend\\UserGroupManagement.MVC.csproj|c:\\users\\simeo\\desktop\\usermanagementassessment v1\\usermanagementassessment\\usergroupmanagement\\usergroupmanagementfrontend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DBE1CF-D8D1-4819-A739-E403001CDA79}|UserGroupManagementFrontend\\UserGroupManagement.MVC.csproj|solutionrelative:usergroupmanagementfrontend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DBE1CF-D8D1-4819-A739-E403001CDA79}|UserGroupManagementFrontend\\UserGroupManagement.MVC.csproj|c:\\users\\simeo\\desktop\\usermanagementassessment v1\\usermanagementassessment\\usergroupmanagement\\usergroupmanagementfrontend\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DBE1CF-D8D1-4819-A739-E403001CDA79}|UserGroupManagementFrontend\\UserGroupManagement.MVC.csproj|solutionrelative:usergroupmanagementfrontend\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DBE1CF-D8D1-4819-A739-E403001CDA79}|UserGroupManagementFrontend\\UserGroupManagement.MVC.csproj|c:\\users\\simeo\\desktop\\usermanagementassessment v1\\usermanagementassessment\\usergroupmanagement\\usergroupmanagementfrontend\\models\\groupusercountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DBE1CF-D8D1-4819-A739-E403001CDA79}|UserGroupManagementFrontend\\UserGroupManagement.MVC.csproj|solutionrelative:usergroupmanagementfrontend\\models\\groupusercountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DBE1CF-D8D1-4819-A739-E403001CDA79}|UserGroupManagementFrontend\\UserGroupManagement.MVC.csproj|c:\\users\\simeo\\desktop\\usermanagementassessment v1\\usermanagementassessment\\usergroupmanagement\\usergroupmanagementfrontend\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DBE1CF-D8D1-4819-A739-E403001CDA79}|UserGroupManagementFrontend\\UserGroupManagement.MVC.csproj|solutionrelative:usergroupmanagementfrontend\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DBE1CF-D8D1-4819-A739-E403001CDA79}|UserGroupManagementFrontend\\UserGroupManagement.MVC.csproj|c:\\users\\simeo\\desktop\\usermanagementassessment v1\\usermanagementassessment\\usergroupmanagement\\usergroupmanagementfrontend\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DBE1CF-D8D1-4819-A739-E403001CDA79}|UserGroupManagementFrontend\\UserGroupManagement.MVC.csproj|solutionrelative:usergroupmanagementfrontend\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DBE1CF-D8D1-4819-A739-E403001CDA79}|UserGroupManagementFrontend\\UserGroupManagement.MVC.csproj|c:\\users\\simeo\\desktop\\usermanagementassessment v1\\usermanagementassessment\\usergroupmanagement\\usergroupmanagementfrontend\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9DBE1CF-D8D1-4819-A739-E403001CDA79}|UserGroupManagementFrontend\\UserGroupManagement.MVC.csproj|solutionrelative:usergroupmanagementfrontend\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DBE1CF-D8D1-4819-A739-E403001CDA79}|UserGroupManagementFrontend\\UserGroupManagement.MVC.csproj|c:\\users\\simeo\\desktop\\usermanagementassessment v1\\usermanagementassessment\\usergroupmanagement\\usergroupmanagementfrontend\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9DBE1CF-D8D1-4819-A739-E403001CDA79}|UserGroupManagementFrontend\\UserGroupManagement.MVC.csproj|solutionrelative:usergroupmanagementfrontend\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DBE1CF-D8D1-4819-A739-E403001CDA79}|UserGroupManagementFrontend\\UserGroupManagement.MVC.csproj|c:\\users\\simeo\\desktop\\usermanagementassessment v1\\usermanagementassessment\\usergroupmanagement\\usergroupmanagementfrontend\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9DBE1CF-D8D1-4819-A739-E403001CDA79}|UserGroupManagementFrontend\\UserGroupManagement.MVC.csproj|solutionrelative:usergroupmanagementfrontend\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DBE1CF-D8D1-4819-A739-E403001CDA79}|UserGroupManagementFrontend\\UserGroupManagement.MVC.csproj|c:\\users\\simeo\\desktop\\usermanagementassessment v1\\usermanagementassessment\\usergroupmanagement\\usergroupmanagementfrontend\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9DBE1CF-D8D1-4819-A739-E403001CDA79}|UserGroupManagementFrontend\\UserGroupManagement.MVC.csproj|solutionrelative:usergroupmanagementfrontend\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DBE1CF-D8D1-4819-A739-E403001CDA79}|UserGroupManagementFrontend\\UserGroupManagement.MVC.csproj|c:\\users\\simeo\\desktop\\usermanagementassessment v1\\usermanagementassessment\\usergroupmanagement\\usergroupmanagementfrontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DBE1CF-D8D1-4819-A739-E403001CDA79}|UserGroupManagementFrontend\\UserGroupManagement.MVC.csproj|solutionrelative:usergroupmanagementfrontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\simeo\\Desktop\\UserManagementAssessment v1\\UserManagementAssessment\\UserGroupManagement\\UserGroupManagementFrontend\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "UserGroupManagementFrontend\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\simeo\\Desktop\\UserManagementAssessment v1\\UserManagementAssessment\\UserGroupManagement\\UserGroupManagementFrontend\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "UserGroupManagementFrontend\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:00:04.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\simeo\\Desktop\\UserManagementAssessment v1\\UserManagementAssessment\\UserGroupManagement\\UserGroupManagementFrontend\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "UserGroupManagementFrontend\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\simeo\\Desktop\\UserManagementAssessment v1\\UserManagementAssessment\\UserGroupManagement\\UserGroupManagementFrontend\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "UserGroupManagementFrontend\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T03:59:58.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GroupUserCountViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\simeo\\Desktop\\UserManagementAssessment v1\\UserManagementAssessment\\UserGroupManagement\\UserGroupManagementFrontend\\Models\\GroupUserCountViewModel.cs",
+              "RelativeDocumentMoniker": "UserGroupManagementFrontend\\Models\\GroupUserCountViewModel.cs",
+              "ToolTip": "C:\\Users\\simeo\\Desktop\\UserManagementAssessment v1\\UserManagementAssessment\\UserGroupManagement\\UserGroupManagementFrontend\\Models\\GroupUserCountViewModel.cs",
+              "RelativeToolTip": "UserGroupManagementFrontend\\Models\\GroupUserCountViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T03:59:55.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\simeo\\Desktop\\UserManagementAssessment v1\\UserManagementAssessment\\UserGroupManagement\\UserGroupManagementFrontend\\Models\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "UserGroupManagementFrontend\\Models\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\simeo\\Desktop\\UserManagementAssessment v1\\UserManagementAssessment\\UserGroupManagement\\UserGroupManagementFrontend\\Models\\UserViewModel.cs",
+              "RelativeToolTip": "UserGroupManagementFrontend\\Models\\UserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T03:59:48.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\simeo\\Desktop\\UserManagementAssessment v1\\UserManagementAssessment\\UserGroupManagement\\UserGroupManagementFrontend\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "UserGroupManagementFrontend\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\simeo\\Desktop\\UserManagementAssessment v1\\UserManagementAssessment\\UserGroupManagement\\UserGroupManagementFrontend\\Services\\ApiService.cs",
+              "RelativeToolTip": "UserGroupManagementFrontend\\Services\\ApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T03:58:44.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\simeo\\Desktop\\UserManagementAssessment v1\\UserManagementAssessment\\UserGroupManagement\\UserGroupManagementFrontend\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "UserGroupManagementFrontend\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\simeo\\Desktop\\UserManagementAssessment v1\\UserManagementAssessment\\UserGroupManagement\\UserGroupManagementFrontend\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "UserGroupManagementFrontend\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T03:58:39.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\simeo\\Desktop\\UserManagementAssessment v1\\UserManagementAssessment\\UserGroupManagement\\UserGroupManagementFrontend\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "UserGroupManagementFrontend\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\simeo\\Desktop\\UserManagementAssessment v1\\UserManagementAssessment\\UserGroupManagement\\UserGroupManagementFrontend\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "UserGroupManagementFrontend\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T03:58:38.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\simeo\\Desktop\\UserManagementAssessment v1\\UserManagementAssessment\\UserGroupManagement\\UserGroupManagementFrontend\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "UserGroupManagementFrontend\\Views\\Users\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\simeo\\Desktop\\UserManagementAssessment v1\\UserManagementAssessment\\UserGroupManagement\\UserGroupManagementFrontend\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "UserGroupManagementFrontend\\Views\\Users\\Delete.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T03:58:35.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\simeo\\Desktop\\UserManagementAssessment v1\\UserManagementAssessment\\UserGroupManagement\\UserGroupManagementFrontend\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "UserGroupManagementFrontend\\Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\simeo\\Desktop\\UserManagementAssessment v1\\UserManagementAssessment\\UserGroupManagement\\UserGroupManagementFrontend\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "UserGroupManagementFrontend\\Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T03:58:33.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simeo\\Desktop\\UserManagementAssessment v1\\UserManagementAssessment\\UserGroupManagement\\UserGroupManagementFrontend\\Program.cs",
+              "RelativeDocumentMoniker": "UserGroupManagementFrontend\\Program.cs",
+              "ToolTip": "C:\\Users\\simeo\\Desktop\\UserManagementAssessment v1\\UserManagementAssessment\\UserGroupManagement\\UserGroupManagementFrontend\\Program.cs",
+              "RelativeToolTip": "UserGroupManagementFrontend\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T03:58:25.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

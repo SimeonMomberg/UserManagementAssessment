@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "UserGroupManagement\\UserGroupManagement.API.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "UserGroupManagementFrontend\\UserGroupManagement.MVC.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "Unittest1\\Unittest1.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

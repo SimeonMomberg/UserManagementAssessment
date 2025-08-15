@@ -1,0 +1,26 @@
+﻿@model IEnumerable<UserGroupManagement.MVC.Models.UserViewModel>
+
+<h2>Users</h2>
+<a asp-action="Create">Add New User</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Groups</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Name</td>
+                <td>@string.Join(", ", user.Groups)</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@user.Id">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@user.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
